@@ -1,0 +1,4 @@
+Model,Hidden Layers,Neurons,Activation,Accuracy
+Model 1,1,50,relu,95.0
+Model 2,2,100,relu,97.25
+Model 3,3,150,tanh,98.1
